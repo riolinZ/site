@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(77, 0, 54);
+    background-color: rgb(53, 0, 37);
 }
 
 h1{
@@ -7,6 +7,11 @@ color: rgb(218, 236, 252);
 } 
     
 p{
-color: rgb(218, 236, 252);   
+font-size: 25px;
+    text-align: center;
+    color: rgb(218, 236, 252);   
 }
-    
+  
+img{
+ text-align: center;
+}
